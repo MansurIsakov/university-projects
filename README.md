@@ -1,4 +1,4 @@
-# university-projects
+# 🎓 university-projects
 
 This repository includes all projects I created to accomplish the Course Work tasks for **Business Information Systems** modules using various programming languages.
 
